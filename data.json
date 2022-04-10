@@ -159,7 +159,7 @@
       "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/img_1_sqdfyz.png",
       "categoria": "perros",
-      "usuarioId": 2
+      "usuarioId": 3
     },
     {
       "id": 2,
@@ -171,7 +171,7 @@
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/olga-andreyanova-XeOO8ir_YHs-unsplash_rjxwva.jpg",
       "categoria": "perros",
-      "usuarioId": 2
+      "usuarioId": 1
     },
     {
       "id": 3,
@@ -294,6 +294,35 @@
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/presssteris-photo-WqTq3JSnPKQ-unsplash_qxkfap.jpg",
       "categoria": "gatos",
       "usuarioId": 2
+    }
+  ],
+  "mensajes": [
+    {
+      "id": 1,
+      "mensaje": [
+        "¡Hola! Me encantaría adoptar a Rocky.",
+        "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
+      ],
+      "usuarioId": 1,
+      "paraUsuario": 3
+    },
+    {
+      "id": 2,
+      "mensaje": [
+        "¡Hola! Me encantaría adoptar a Rocky.",
+        "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
+      ],
+      "usuarioId": 2,
+      "paraUsuario": 3
+    },
+    {
+      "id": 3,
+      "mensaje": [
+        "¡Hola! Me encantaría adoptar a Rocky.",
+        "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
+      ],
+      "usuarioId": 2,
+      "paraUsuario": 3
     }
   ]
 }
