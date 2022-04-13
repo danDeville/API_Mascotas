@@ -156,10 +156,11 @@
       "edad": "3 Meses",
       "ubicacion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "personalidad": ["Cariñoso", "Inquieto", "Juguetón"],
+      "sexo": "Macho",
       "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/img_1_sqdfyz.png",
       "categoria": "perros",
-      "usuarioId": 3
+      "usuarioId": 2
     },
     {
       "id": 2,
@@ -168,6 +169,7 @@
       "edad": "4 Meses",
       "ubicacion": "560 Maudie Crest, Idaho 28402-9044",
       "personalidad": ["Cariñoso", "Inquieto", "Juguetón"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/olga-andreyanova-XeOO8ir_YHs-unsplash_rjxwva.jpg",
       "categoria": "perros",
@@ -180,6 +182,7 @@
       "edad": "7 Meses",
       "ubicacion": "5434 Lee Street Apt. 340, Arkansas 34183-8837",
       "personalidad": ["Cariñoso", "Inquieto", "Juguetón"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/gregory-murphy-xhuZnGgnook-unsplash_srzxgn.jpg",
       "categoria": "perros",
@@ -192,6 +195,7 @@
       "edad": "12 Meses",
       "ubicacion": "2614 Klocko Mills, Indiana 42347",
       "personalidad": ["Cariñoso", "Inquieto", "Juguetón"],
+      "sexo": "Hembra",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/matt-briney-ej9CT_iv1s0-unsplash_k4xzls.jpg",
       "categoria": "perros",
@@ -204,6 +208,7 @@
       "edad": "15 Meses",
       "ubicacion": "527 Kimberly Mountain, Montana 49692",
       "personalidad": ["Cariñoso", "Inquieto", "Juguetón"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/wesley-sanchez-cyimMEASu3A-unsplash_l29zez.jpg",
       "categoria": "perros",
@@ -216,6 +221,7 @@
       "edad": "9 Meses",
       "ubicacion": "2473 Sipes Path, Utah 33241",
       "personalidad": ["Cariñoso", "Inquieto", "Juguetón"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350863/dogs/dog/janko-ferlic-ifI0ud6BGfM-unsplash_dgddft.jpg",
       "categoria": "perros",
@@ -230,6 +236,7 @@
       "edad": "6 Meses",
       "ubicacion": "6327 Sister Radial, Connecticut 15100",
       "personalidad": ["Juguetón", "Inquieto", "Tierno"],
+      "sexo": "Hembra",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/img_merler.png",
       "categoria": "gatos",
@@ -242,6 +249,7 @@
       "edad": "16 Meses",
       "ubicacion": "903 Crooks Locks Apt. 272, Colorado 26087-7528",
       "personalidad": ["Juguetón", "Inquieto", "Tierno"],
+      "sexo": "Hembra",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/birman-kitten-804x1024_cuxhba.jpg",
       "categoria": "gatos",
@@ -254,6 +262,7 @@
       "edad": "7 Meses",
       "ubicacion": "453 Hermiston Mountains, Delaware 79936-7398",
       "personalidad": ["Juguetón", "Inquieto", "Tierno"],
+      "sexo": "Hembra",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/Gato-Bombaim_774381946-1000x667_wvxeqs.jpg",
       "categoria": "gatos",
@@ -266,6 +275,7 @@
       "edad": "12 Meses",
       "ubicacion": ", ",
       "personalidad": ["Juguetón", "Inquieto", "Tierno"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/raphael-schaller-psPEo8Cgh7U-unsplash_mcnbet.jpg",
       "categoria": "gatos",
@@ -278,6 +288,7 @@
       "edad": "6 Meses",
       "ubicacion": "4206 Alexa Inlet, Oregon 78450-9621",
       "personalidad": ["Juguetón", "Inquieto", "Tierno"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/erda-estremera-kimZX28vZHo-unsplash_iw4hrq.jpg",
       "categoria": "gatos",
@@ -290,6 +301,7 @@
       "edad": "10 Meses",
       "ubicacion": "32263 Ward Neck, South Dakota 57481",
       "personalidad": ["Juguetón", "Inquieto", "Tierno"],
+      "sexo": "Macho",
       "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 3500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "imagen": "https://res.cloudinary.com/dz8on44po/image/upload/v1649350602/dogs/cat/presssteris-photo-WqTq3JSnPKQ-unsplash_qxkfap.jpg",
       "categoria": "gatos",
@@ -299,28 +311,28 @@
   "mensajes": [
     {
       "id": 1,
-      "mensaje": [
-        "¡Hola! Me encantaría adoptar a Rocky.",
-        "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
-      ],
+      "mensaje": {
+        "pregunta": "¡Hola! Me encantaría adoptar a Rocky.",
+        "respuesta": "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
+      },
       "usuarioId": 1,
       "paraUsuario": 3
     },
     {
       "id": 2,
-      "mensaje": [
-        "¡Hola! Me encantaría adoptar a Rocky.",
-        "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
-      ],
+      "mensaje": {
+        "pregunta": "¡Hola! Me encantaría adoptar a Rocky.",
+        "respuesta": "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
+      },
       "usuarioId": 2,
       "paraUsuario": 3
     },
     {
       "id": 3,
-      "mensaje": [
-        "¡Hola! Me encantaría adoptar a Rocky.",
-        "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
-      ],
+      "mensaje": {
+        "pregunta": "¡Hola! Me encantaría adoptar a Rocky.",
+        "respuesta": "¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky."
+      },
       "usuarioId": 2,
       "paraUsuario": 3
     }
